@@ -1,5 +1,5 @@
 import  { Component } from 'react'
-import  "./FoodItems.css"
+import  "./Fooditems.css"
 export default class FoodItems extends Component { 
   render() {
      console.log(this.props);
